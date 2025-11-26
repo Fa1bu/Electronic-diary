@@ -3,30 +3,36 @@
 Электронный дневник — это онлайн-сервис для учеников и учителей, который является цифровым аналогом бумажного дневника и предоставляет доступ к оценкам.
 
 ## Возможности
-*-* Выборать роль входа <br>
-<div align="center"> <img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/47292cac-885b-47fe-89f7-920d0ea9c2aa" /> </div>
+*-* Войти в программу <br>
+<div align="center"> <img width="624" height="407" alt="image" src="https://github.com/user-attachments/assets/e3fb3196-7c6b-46e5-979a-c1f4051c168c" /> </div>
+- Авторизоваться <br>
+<div align="center"> <img width="436" height="387" alt="image" src="https://github.com/user-attachments/assets/71dda161-82c0-4f45-89b6-77f32df6fdd8" /> </div>
 
 ### Вход как персонал
 *-* Выбор действий персонала <br> <br>
-<div align="center"> <img width="619" height="405" alt="image" src="https://github.com/user-attachments/assets/f7904781-648e-47b8-9622-df02edb3967d" /> </div> <br>
+<div align="center"> <img width="625" height="407" alt="image" src="https://github.com/user-attachments/assets/3228a0f5-a6bf-44cf-8ef0-650b4023021d" /> </div> <br>
 - Окно оценок персонала <br> <br>
-<div align="center"> <img width="755" height="492" alt="image" src="https://github.com/user-attachments/assets/993b397a-eacd-4214-9012-95f6e36b7617" /> </div> <br>
+<div align="center"> <img width="625" height="407" alt="image" src="https://github.com/user-attachments/assets/8280e0ea-ba95-442f-8977-de4acf860aa8" /> </div> <br>
 - Добавление оценок <br> <br>
-<div align="center"> <img width="409" height="502" alt="image" src="https://github.com/user-attachments/assets/0200c8a1-6ff7-4f17-8702-216aa968a262" /> </div> <br>
-- Кнопка счетчика среднего балла <br> <br>
-<div align="center"> <img width="481" height="399" alt="image" src="https://github.com/user-attachments/assets/79ea4da0-fbf4-47f2-9202-2869357a76d1" /> </div> <br>
+<div align="center"> <img width="374" height="474" alt="image" src="https://github.com/user-attachments/assets/c6421c4c-f3ce-45b8-b63b-b0d14fb1063d" /> </div> <br>
+- Счетчик среднего балла за предмет <br> <br>
+<div align="center"> <img width="483" height="397" alt="image" src="https://github.com/user-attachments/assets/80031db8-a0c5-4f4d-a3d4-d5d81ff99c4a" /> </div> <br>
+- Подсчет среднего балла <br> <br>
+<div align="center"> <img width="624" height="255" alt="image" src="https://github.com/user-attachments/assets/24dd1a6a-7700-4b26-b21a-3286565f2628" /> </div> <br>
 - Окно учеников <br> <br>
-<div align="center"> <img width="623" height="409" alt="image" src="https://github.com/user-attachments/assets/df3618ef-7fd6-4734-8bed-081d67f082d8" /> </div> <br>
-- Добавление учеников <br> <br>
-<div align="center"> <img width="407" height="408" alt="image" src="https://github.com/user-attachments/assets/e55e0ceb-203f-4d54-8e59-604a6e5ccf8f" /> </div> <br>
+<div align="center"> <img width="625" height="406" alt="image" src="https://github.com/user-attachments/assets/f20fa1be-aae0-48c4-b4e4-562bfb5147c5" /> </div> <br>
+- Добавление ученика <br> <br>
+<div align="center"> <img width="394" height="396" alt="image" src="https://github.com/user-attachments/assets/67c0ffbe-a121-47b8-bfe8-75996f2bba93" /> </div> <br>
 
 ### Вход как учащийся
 *-* Выбор действий учащегося <br> <br>
-<div align="center"> <img width="624" height="408" alt="image" src="https://github.com/user-attachments/assets/a5106f3f-f72f-442b-b3ad-67c4fbc2f2c6" /> </div> <br>
+<div align="center"> <img width="625" height="408" alt="image" src="https://github.com/user-attachments/assets/501dcc39-59f5-493d-90ac-a3726b1abc19" /> </div> <br>
 - Окно оценок учащегося <br> <br>
-<div align="center"> <img width="754" height="491" alt="image" src="https://github.com/user-attachments/assets/c853a162-d102-4144-ae74-94067277d0ed" /> </div> <br>
-- Кнопка счетчика среднего балла <br> <br>
-<div align="center"> <img width="492" height="404" alt="image" src="https://github.com/user-attachments/assets/d21a4305-2d7a-4a6c-a264-8f7c32439d06" /> </div> <br>
+<div align="center"> <img width="624" height="406" alt="image" src="https://github.com/user-attachments/assets/bb045189-ef4d-49b5-9622-a90b6efd765a" /> </div> <br>
+- Счетчик среднего балла за предмет <br> <br>
+<div align="center"> <img width="483" height="397" alt="image" src="https://github.com/user-attachments/assets/80031db8-a0c5-4f4d-a3d4-d5d81ff99c4a" /> </div> <br>
+- Подсчет среднего балла <br> <br>
+<div align="center"> <img width="624" height="255" alt="image" src="https://github.com/user-attachments/assets/24dd1a6a-7700-4b26-b21a-3286565f2628" /> </div> <br>
 
 ## Что необходимо для работы: 
 1. Установить Visual Studio
