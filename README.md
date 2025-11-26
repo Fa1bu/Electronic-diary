@@ -10,7 +10,7 @@
 *-* Выбор действий персонала <br> <br>
 <div align="center"> <img width="619" height="405" alt="image" src="https://github.com/user-attachments/assets/f7904781-648e-47b8-9622-df02edb3967d" /> </div> <br>
 - Окно оценок персонала <br> <br>
-<div align="center"> <img width="619" height="399" alt="image" src="https://github.com/user-attachments/assets/ab0360f6-16dc-48c1-9467-c5c4cdacaf5f" /> </div> <br>
+<div align="center"> <img width="755" height="492" alt="image" src="https://github.com/user-attachments/assets/993b397a-eacd-4214-9012-95f6e36b7617" /> </div> <br>
 - Добавление оценок <br> <br>
 <div align="center"> <img width="369" height="456" alt="image" src="https://github.com/user-attachments/assets/fcaf3ab9-6368-4161-9ceb-3a6d2c18f0b8" /> </div> <br>
 - Кнопка счетчика среднего балла <br> <br>
@@ -24,7 +24,7 @@
 *-* Выбор действий учащегося <br> <br>
 <div align="center"> <img width="624" height="408" alt="image" src="https://github.com/user-attachments/assets/a5106f3f-f72f-442b-b3ad-67c4fbc2f2c6" /> </div> <br>
 - Окно оценок учащегося <br> <br>
-<div align="center"> <img width="624" height="411" alt="image" src="https://github.com/user-attachments/assets/4bc21cc4-1454-4635-92e7-27cca63c668f" /> </div> <br>
+<div align="center"> <img width="754" height="491" alt="image" src="https://github.com/user-attachments/assets/c853a162-d102-4144-ae74-94067277d0ed" /> </div> <br>
 - Кнопка счетчика среднего балла <br> <br>
 <div align="center"> <img width="492" height="404" alt="image" src="https://github.com/user-attachments/assets/d21a4305-2d7a-4a6c-a264-8f7c32439d06" /> </div> <br>
 
