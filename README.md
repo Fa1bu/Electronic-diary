@@ -12,7 +12,7 @@
 - Окно оценок персонала <br> <br>
 <div align="center"> <img width="755" height="492" alt="image" src="https://github.com/user-attachments/assets/993b397a-eacd-4214-9012-95f6e36b7617" /> </div> <br>
 - Добавление оценок <br> <br>
-<div align="center"> <img width="369" height="456" alt="image" src="https://github.com/user-attachments/assets/fcaf3ab9-6368-4161-9ceb-3a6d2c18f0b8" /> </div> <br>
+<div align="center"> <img width="409" height="502" alt="image" src="https://github.com/user-attachments/assets/0200c8a1-6ff7-4f17-8702-216aa968a262" /> </div> <br>
 - Кнопка счетчика среднего балла <br> <br>
 <div align="center"> <img width="481" height="399" alt="image" src="https://github.com/user-attachments/assets/79ea4da0-fbf4-47f2-9202-2869357a76d1" /> </div> <br>
 - Окно учеников <br> <br>
